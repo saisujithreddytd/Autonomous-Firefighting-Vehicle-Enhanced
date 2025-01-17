@@ -1,1 +1,0 @@
-# Autonomous-Firefighting-Vehicle-Enhanced
